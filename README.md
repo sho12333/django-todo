@@ -1,4 +1,5 @@
 # django-todo
 
 
-youyou
+todoproject for django-python
+

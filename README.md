@@ -1,4 +1,4 @@
 # django-todo
 
 
-youyou
+todoapp for python-django

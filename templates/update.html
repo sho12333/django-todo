@@ -2,9 +2,7 @@
 
 
 {% block content %}
-<div class="jumbotron jumbotron-fluid">
-    <h4>Edit</h4>
-</div>
+
 <form actions='' method="POST">{% csrf_token %}
 <div class="context">
     <p class="mt-4 mb-5 border-bottom">タイトル：{{form.title}}</p>
